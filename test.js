@@ -11,3 +11,4 @@ request.addEventListener("readystatechange", () => {
 });
 request.open("GET", "https://jsonplaceholder.typicode.com/todos/1");
 request.send();
+// ok
